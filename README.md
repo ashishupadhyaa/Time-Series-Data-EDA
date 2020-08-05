@@ -39,11 +39,11 @@ s<sub>x</sub> = &gamma;(y<sub>x</sub> - &ell;<sub>x</sub>) + (1 - &gamma;)s<sub>
 **Linear Regression** :-
 The Plot of the result of the *LinearRegression* model is as follows-
 
-[!alt text](/images/lr.png "Linear Regression model plot")
+![alt text](/images/lr.png "Linear Regression model plot")
 
 **XGBRegressor** :-
 The Plot of the result of the *XGBRegressor* model is as follows-
 
-[!alt text](/images/xgr.png "XGBRegressor model plot")
+![alt text](/images/xgr.png "XGBRegressor model plot")
 
 ### The End
